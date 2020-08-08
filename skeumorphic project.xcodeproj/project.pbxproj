@@ -14,6 +14,7 @@
 		F2384A9624DE2E420052B6B1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2384A9524DE2E420052B6B1 /* Preview Assets.xcassets */; };
 		F2384A9924DE2E420052B6B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2384A9724DE2E420052B6B1 /* LaunchScreen.storyboard */; };
 		F2384AA124DE2EBD0052B6B1 /* Neumorphism.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2384AA024DE2EBD0052B6B1 /* Neumorphism.swift */; };
+		F2384AA424DE351F0052B6B1 /* iPhone-screenshot in Resources */ = {isa = PBXBuildFile; fileRef = F2384AA324DE351F0052B6B1 /* iPhone-screenshot */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F2384A9824DE2E420052B6B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2384A9A24DE2E420052B6B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F2384AA024DE2EBD0052B6B1 /* Neumorphism.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Neumorphism.swift; sourceTree = "<group>"; };
+		F2384AA324DE351F0052B6B1 /* iPhone-screenshot */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iPhone-screenshot"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		F2384A8B24DE2E3F0052B6B1 /* skeumorphic project */ = {
 			isa = PBXGroup;
 			children = (
+				F2384AA224DE35060052B6B1 /* Assets */,
 				F2384A8C24DE2E3F0052B6B1 /* AppDelegate.swift */,
 				F2384A8E24DE2E3F0052B6B1 /* SceneDelegate.swift */,
 				F2384A9024DE2E3F0052B6B1 /* ContentView.swift */,
@@ -76,6 +79,14 @@
 				F2384A9524DE2E420052B6B1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F2384AA224DE35060052B6B1 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				F2384AA324DE351F0052B6B1 /* iPhone-screenshot */,
+			);
+			path = Assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,6 +149,7 @@
 			files = (
 				F2384A9924DE2E420052B6B1 /* LaunchScreen.storyboard in Resources */,
 				F2384A9624DE2E420052B6B1 /* Preview Assets.xcassets in Resources */,
+				F2384AA424DE351F0052B6B1 /* iPhone-screenshot in Resources */,
 				F2384A9324DE2E420052B6B1 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
