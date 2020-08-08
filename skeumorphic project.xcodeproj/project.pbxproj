@@ -13,6 +13,7 @@
 		F2384A9324DE2E420052B6B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2384A9224DE2E420052B6B1 /* Assets.xcassets */; };
 		F2384A9624DE2E420052B6B1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2384A9524DE2E420052B6B1 /* Preview Assets.xcassets */; };
 		F2384A9924DE2E420052B6B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2384A9724DE2E420052B6B1 /* LaunchScreen.storyboard */; };
+		F2384AA124DE2EBD0052B6B1 /* Neumorphism.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2384AA024DE2EBD0052B6B1 /* Neumorphism.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F2384A9524DE2E420052B6B1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F2384A9824DE2E420052B6B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2384A9A24DE2E420052B6B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2384AA024DE2EBD0052B6B1 /* Neumorphism.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Neumorphism.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F2384A8C24DE2E3F0052B6B1 /* AppDelegate.swift */,
 				F2384A8E24DE2E3F0052B6B1 /* SceneDelegate.swift */,
 				F2384A9024DE2E3F0052B6B1 /* ContentView.swift */,
+				F2384AA024DE2EBD0052B6B1 /* Neumorphism.swift */,
 				F2384A9224DE2E420052B6B1 /* Assets.xcassets */,
 				F2384A9724DE2E420052B6B1 /* LaunchScreen.storyboard */,
 				F2384A9A24DE2E420052B6B1 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				F2384A8D24DE2E3F0052B6B1 /* AppDelegate.swift in Sources */,
 				F2384A8F24DE2E3F0052B6B1 /* SceneDelegate.swift in Sources */,
+				F2384AA124DE2EBD0052B6B1 /* Neumorphism.swift in Sources */,
 				F2384A9124DE2E3F0052B6B1 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
